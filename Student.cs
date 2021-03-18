@@ -20,6 +20,11 @@ namespace BoatFirstVoyage
 
         }
 
+		public Student()
+		{
+			
+		}
+
 
 	public String getFName() {
 		return this.fName;
@@ -44,6 +49,11 @@ namespace BoatFirstVoyage
 	public void setStuNo(String stuNo) {
 		this.stuNo = stuNo;
 	}
+
+	 public override string ToString()
+   {
+      return stuNo+"|"+fName+"|"+lName;
+   }
 
     }
 }

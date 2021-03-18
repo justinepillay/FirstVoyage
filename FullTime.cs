@@ -20,6 +20,10 @@ namespace BoatFirstVoyage
 
         }
 
+        public FullTime()
+        {
+            
+        }
 
         public String getCampus()
         {
@@ -35,6 +39,11 @@ namespace BoatFirstVoyage
         {
               System.Console.WriteLine("I study at home differently to the house hermmit.");
         }
+
+         public override string ToString()
+             {
+                  return this.getStuNo()+"|"+this.getFName()+"|"+this.getLName()+"|"+campus;
+             }
 
 
     }

@@ -16,6 +16,10 @@ namespace BoatFirstVoyage
 
         }
 
+        public Distant()
+        {
+            
+        }
 
         public String getFacilitator()
         {
@@ -31,6 +35,11 @@ namespace BoatFirstVoyage
         {
             System.Console.WriteLine("I am house hermit.");
         }
+
+         public override string ToString()
+             {
+                  return this.getStuNo()+"|"+this.getFName()+"|"+this.getLName()+"|"+facilitator;
+             }
 
 
     }
