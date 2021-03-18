@@ -1,0 +1,13 @@
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.exe
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.deps.json
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.runtimeconfig.json
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.runtimeconfig.dev.json
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.dll
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.pdb
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.csprojAssemblyReference.cache
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.AssemblyInfoInputs.cache
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.AssemblyInfo.cs
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.csproj.CoreCompileInputs.cache
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.dll
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.pdb
+C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.genruntimeconfig.cache
