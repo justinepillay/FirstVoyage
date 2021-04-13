@@ -5,6 +5,7 @@ using System.Collections.Generic;
 namespace BoatFirstVoyage
 {
 
+//class to handle the list of distant and full time students
         public class ListWorker
         {
 
@@ -14,13 +15,23 @@ namespace BoatFirstVoyage
 
             public ListWorker()
             {
+
+                //calls the method in the textfile class to read in the values 
                 tfWorker.readInValues();
+
+                // populates the lists
                 this.lstFullTime = tfWorker.getLstFullTime();
                 this.lstDistant = tfWorker.getLstDistant();        
             }
 
+
+
+
+        //method to display the menu from the user and returns the selected option from the console
             public String displayMenu()
             {
+
+                Console.Clear();
                 String option = "";
                 System.Console.WriteLine("*****************************************");
                 System.Console.WriteLine("Select an option below:\n\n");
@@ -30,6 +41,8 @@ namespace BoatFirstVoyage
 
             }
 
+
+//          method receives a option and calls the relevant method
             public void performMenuAction(String option)
             {
                     switch(option)
@@ -44,6 +57,8 @@ namespace BoatFirstVoyage
                 }
             }
 
+
+//       method to add a student to the list and also to the tf
             public void addStudent()
             {
 
@@ -96,6 +111,7 @@ namespace BoatFirstVoyage
             }
 
 
+//          displays a list of the full time and distant students to the user 
             public void viewStudents()
             {
                  System.Console.Write("FULL TIME STUDENTS:\n\n");
@@ -112,6 +128,7 @@ namespace BoatFirstVoyage
             }
 
 
+//              method to ask the user if they want to return to the main menu
             public bool returnToMenu()
             {
                 String response ="";

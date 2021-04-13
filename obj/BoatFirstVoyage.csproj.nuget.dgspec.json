@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pilla\\OneDrive\\Documents\\BCAD 3\\PROG 3A\\BoatFirstVoyage\\BoatFirstVoyage.csproj": {}
+    "E:\\BoatFirstVoyage\\BoatFirstVoyage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pilla\\OneDrive\\Documents\\BCAD 3\\PROG 3A\\BoatFirstVoyage\\BoatFirstVoyage.csproj": {
+    "E:\\BoatFirstVoyage\\BoatFirstVoyage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pilla\\OneDrive\\Documents\\BCAD 3\\PROG 3A\\BoatFirstVoyage\\BoatFirstVoyage.csproj",
+        "projectUniqueName": "E:\\BoatFirstVoyage\\BoatFirstVoyage.csproj",
         "projectName": "BoatFirstVoyage",
-        "projectPath": "C:\\Users\\pilla\\OneDrive\\Documents\\BCAD 3\\PROG 3A\\BoatFirstVoyage\\BoatFirstVoyage.csproj",
-        "packagesPath": "C:\\Users\\pilla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pilla\\OneDrive\\Documents\\BCAD 3\\PROG 3A\\BoatFirstVoyage\\obj\\",
+        "projectPath": "E:\\BoatFirstVoyage\\BoatFirstVoyage.csproj",
+        "packagesPath": "C:\\Users\\19002561\\.nuget\\packages\\",
+        "outputPath": "E:\\BoatFirstVoyage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\19002561\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

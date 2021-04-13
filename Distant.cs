@@ -4,6 +4,11 @@ namespace BoatFirstVoyage
 {
 //Open closed principle: it can be and is extended yet the class is not modified
 
+//Liskov Substition Principle : The principle defines that objects of a superclass shall be replaceable 
+//                              with objects of its subclasses without breaking the application. 
+//                              That requires the objects of your subclasses to behave in the same way 
+//                              as the objects of your superclass.
+
 
    public  class Distant: Student, IWorkFromHome
     {

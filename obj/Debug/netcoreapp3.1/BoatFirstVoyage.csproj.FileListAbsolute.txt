@@ -11,3 +11,16 @@ C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netco
 C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.dll
 C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.pdb
 C:\Users\pilla\OneDrive\Documents\BCAD 3\PROG 3A\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.genruntimeconfig.cache
+E:\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.exe
+E:\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.deps.json
+E:\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.runtimeconfig.json
+E:\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.runtimeconfig.dev.json
+E:\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.dll
+E:\BoatFirstVoyage\bin\Debug\netcoreapp3.1\BoatFirstVoyage.pdb
+E:\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.csprojAssemblyReference.cache
+E:\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.AssemblyInfoInputs.cache
+E:\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.AssemblyInfo.cs
+E:\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.csproj.CoreCompileInputs.cache
+E:\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.dll
+E:\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.pdb
+E:\BoatFirstVoyage\obj\Debug\netcoreapp3.1\BoatFirstVoyage.genruntimeconfig.cache

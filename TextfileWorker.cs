@@ -11,6 +11,8 @@ namespace BoatFirstVoyage
         List<FullTime> lstFullTime = new List<FullTime>();
         List<Distant> lstDistant = new List<Distant>();
 
+
+//      reads the values from the textfile 
         public void readInValues()
         {
             string line;
@@ -51,6 +53,7 @@ namespace BoatFirstVoyage
         }
 
 
+//         writes the values to the textfile
         public void writeStudentToFile(Student student)
         {
 
